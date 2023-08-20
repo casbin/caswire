@@ -309,7 +309,7 @@ class App extends Component {
           textAlign: 'center',
         }
       }>
-        Made with <span style={{color: 'rgb(255, 255, 255)'}}>❤️</span> by <a style={{fontWeight: "bold", color: "black"}} target="_blank" href="https://github.com/casbin/casvisor">Casvisor</a>, { Setting.isMobile() ? "Mobile" : "Desktop" } View
+        Made with <span style={{color: 'rgb(255, 255, 255)'}}>❤️</span> by <a style={{fontWeight: "bold", color: "black"}} target="_blank" href="https://github.com/casbin/caswire">Caswire</a>, { Setting.isMobile() ? "Mobile" : "Desktop" } View
       </Footer>
     )
   }

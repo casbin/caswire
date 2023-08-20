@@ -17,7 +17,7 @@ package controllers
 import (
 	"encoding/json"
 
-	"github.com/casbin/casvisor/object"
+	"github.com/casbin/caswire/object"
 )
 
 func (c *ApiController) GetGlobalDatasets() {

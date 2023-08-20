@@ -18,8 +18,8 @@ import (
 	"github.com/beego/beego"
 	"github.com/beego/beego/plugins/cors"
 	_ "github.com/beego/beego/session/redis"
-	"github.com/casbin/casvisor/object"
-	"github.com/casbin/casvisor/routers"
+	"github.com/casbin/caswire/object"
+	"github.com/casbin/caswire/routers"
 )
 
 func main() {

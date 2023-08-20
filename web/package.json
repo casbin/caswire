@@ -19,7 +19,7 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
-    "start": "set PORT=18001 && craco start",
+    "start": "set PORT=19001 && craco start",
     "build": "del build.zip 2>nul && set \"GENERATE_SOURCEMAP=false\" && set \"SKIP_PREFLIGHT_CHECK=true\" && craco build && 360zip.exe -ar build %cd%/build.zip || ECHO.",
     "test": "craco test",
     "eject": "craco eject",

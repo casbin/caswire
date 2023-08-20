@@ -15,7 +15,7 @@
 package object
 
 import (
-	"github.com/casbin/casvisor/util"
+	"github.com/casbin/caswire/util"
 	"xorm.io/core"
 )
 

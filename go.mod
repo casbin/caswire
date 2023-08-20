@@ -1,4 +1,4 @@
-module github.com/casbin/casvisor
+module github.com/casbin/caswire
 
 go 1.17
 
